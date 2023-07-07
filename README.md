@@ -13,3 +13,5 @@ https://github.com/alpaddesai/SoC_Architecture, https://github.com/alpaddesai/Em
 #### Learning with Certifications https://github.com/alpaddesai/UdemyCertificationsMSECE
 
 ![image](USCopyrightCertificate.png)
+
+![image](EthicsandExcellence.png)
