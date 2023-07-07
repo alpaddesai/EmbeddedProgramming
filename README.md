@@ -11,3 +11,5 @@ https://github.com/alpaddesai/SoC_Architecture, https://github.com/alpaddesai/Em
 #### Admission Letter: https://github.com/alpaddesai/GraduateECESchoolAdmissionLetter
 #### Cover Letters: https://github.com/alpaddesai/JobSearch and https://github.com/alpaddesai/DesignEngineeringECE_CoverLetters
 #### Learning with Certifications https://github.com/alpaddesai/UdemyCertificationsMSECE
+
+![image](USCopyrightCertificate.png)
